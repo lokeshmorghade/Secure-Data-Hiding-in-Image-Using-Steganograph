@@ -8,7 +8,6 @@ Run the Script: Open a terminal or command prompt in the directory where you sav
 
 bash
 
-python steganography_gui.py
-
+python Secure Data Hiding in Image Using Steganography.py
 A GUI window will appear with Encoding & Decoding options.
 
